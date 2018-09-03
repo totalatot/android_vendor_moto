@@ -33,6 +33,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/moto/shamu/proprietary/bin/radish:system/bin/radish \
     vendor/moto/shamu/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
+    vendor/moto/shamu/proprietary/bin/stm401:system/bin/stm401 \
     vendor/moto/shamu/proprietary/bin/tcmd_mini:system/bin/tcmd_mini \
     vendor/moto/shamu/proprietary/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/moto/shamu/proprietary/bin/time_daemon:system/bin/time_daemon \
