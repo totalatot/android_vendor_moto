@@ -351,6 +351,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/moto/shamu/proprietary/vendor/lib/lib-rcsimssjni.so:system/vendor/lib/lib-rcsimssjni.so \
     vendor/moto/shamu/proprietary/vendor/lib/lib-rcsjni.so:system/vendor/lib/lib-rcsjni.so \
+    vendor/moto/shamu/proprietary/vendor/lib/libril.so:system/vendor/lib/libril.so \
     vendor/moto/shamu/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/moto/shamu/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/moto/shamu/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
